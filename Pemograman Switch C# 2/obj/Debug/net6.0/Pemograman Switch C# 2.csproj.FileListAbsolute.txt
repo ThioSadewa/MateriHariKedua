@@ -1,0 +1,15 @@
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\bin\Debug\net6.0\Pemograman Switch C# 2.exe
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\bin\Debug\net6.0\Pemograman Switch C# 2.deps.json
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\bin\Debug\net6.0\Pemograman Switch C# 2.runtimeconfig.json
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\bin\Debug\net6.0\Pemograman Switch C# 2.dll
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\bin\Debug\net6.0\Pemograman Switch C# 2.pdb
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\Pemograman Switch C# 2.csproj.AssemblyReference.cache
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\Pemograman Switch C# 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\Pemograman Switch C# 2.AssemblyInfoInputs.cache
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\Pemograman Switch C# 2.AssemblyInfo.cs
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\Pemograman Switch C# 2.csproj.CoreCompileInputs.cache
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\Pemograman Switch C# 2.dll
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\refint\Pemograman Switch C# 2.dll
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\Pemograman Switch C# 2.pdb
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\Pemograman Switch C# 2.genruntimeconfig.cache
+D:\Muhammad Thio Sadewa\Pemograman Switch C# 2\obj\Debug\net6.0\ref\Pemograman Switch C# 2.dll
